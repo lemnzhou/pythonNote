@@ -1,0 +1,5 @@
+1.Multivariate for cycle,using the zip method:
+[In]: for i,j in zip(range(2),range(3,5)):
+          print(i+j)
+[Out]: 3
+[out]: 5
